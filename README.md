@@ -1,3 +1,4 @@
+Course link: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 # ChatGPT Retrieval Plugin
 
 > **Join the [ChatGPT plugins waitlist here](https://openai.com/waitlist/plugins)!**
